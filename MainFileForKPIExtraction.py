@@ -6,7 +6,7 @@ from FunctionLibrary.FNC_ParserFunctions import *
 ############################################
 ### Saving the Modem KPIs in a TXT File ####
 
-foldername = "./DataFolder/temporary_file_name.txt/"
+foldername = "./DataFolder/"
 ############################################
 
 methodID = 2
@@ -22,7 +22,7 @@ deviceID = 2
 ### Get Access to the device #####
 
 global_time_delay = 0.25
-scene = "Metaclinic_"
+scene = "temporary_file_name"
 
 if (methodID == 1):
     ############################################
