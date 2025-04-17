@@ -5,8 +5,8 @@ from FunctionLibrary.FNC_ParserFunctions import *
 
 ############################################
 ### Saving the Modem KPIs in a TXT File ####
-#foldername = "./DataFolder/Metaclinic_T1_D2_woCN_0805/"
-foldername = "./DataFolder/Metaclinic_T1_D2_woCN_1540_EgeGozluk_BurakStream_UploadLimit/"
+
+foldername = "./DataFolder/temporary_file_name.txt/"
 ############################################
 
 methodID = 2
